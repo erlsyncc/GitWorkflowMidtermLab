@@ -5,3 +5,4 @@ button.addEventListener('click', () => {
   const now = new Date();
   output.textContent = `Button clicked at ${now.toLocaleTimeString()}.`;
 });
+<script>console.log('homepage enhancements')</script>
