@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f7fb;
+  color: #111;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 32px;
+  max-width: 540px;
+  width: 100%;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.08);
+}
+
+button {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  background: #3366ff;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #254fda;
+}
+
+#output {
+  margin-top: 20px;
+  font-weight: 600;
+}
+Adjust homepage layout spacing
