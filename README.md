@@ -4,6 +4,8 @@ This repository contains a simple starter web project with a static HTML page, C
 
 ## Files
 
+/* Updated */
+
 - `index.html` – main HTML page
 - `style.css` – page styling
 - `script.js` – JavaScript behavior
